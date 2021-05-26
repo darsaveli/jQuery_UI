@@ -1,1 +1,3 @@
-# jQuery_UI
+# jQuery UI
+
+https://jqueryui.com/
